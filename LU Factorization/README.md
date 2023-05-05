@@ -1,0 +1,2 @@
+
+The LU factorization algorithm works to solve difficult matrix problems. In this specific algorithm, the LU factorization is paired with partial pivoting. The first step of this algorithm is to check if the matrix inputted is square. If this condition is true, pivoting takes place and the L and U (lower and upper) triangular matrices are displayed. The permutation matrix P is also calculated. This function works for simple and complex matrices and matrices that require no pivoting.
